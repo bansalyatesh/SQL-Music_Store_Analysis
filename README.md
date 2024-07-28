@@ -6,26 +6,26 @@ The SQL Music Store Analysis project aims to provide insights into the sales, cu
 
 ## Project Objectives
 
-Analyze sales data to identify trends and patterns.
-Examine customer demographics and purchasing behavior.
-Evaluate inventory levels and product availability.
-Provide actionable insights to improve business performance.
+Analyze sales data to identify trends and patterns.         
+Examine customer demographics and purchasing behavior.                           
+Evaluate inventory levels and product availability.                                       
+Provide actionable insights to improve business performance.                                                           
 
 ## Tools and Technologies
 
-Database Management System: PostgreSQL
-SQL Queries: For data extraction, manipulation, and analysis
+Database Management System: PostgreSQL                                             
+SQL Queries: For data extraction, manipulation, and analysis                                                   
 
 ## Dataset
 
-The dataset for this project is a fictional music store database, which includes the following tables:
+The dataset for this project is a fictional music store database, which includes the following tables:                                    
 
-customers: Information about the customers.
-invoices: Details of the invoices issued.
-invoice_items: Items included in each invoice.
-tracks: Information about the tracks available in the store.
-albums: Information about the albums.
-artists: Information about the artists.
-genres: Different music genres.
-media_types: Types of media available.
-employees: Details of the store employees.
+customers: Information about the customers.                                 
+invoices: Details of the invoices issued.                                     
+invoice_items: Items included in each invoice.                                       
+tracks: Information about the tracks available in the store.                               
+albums: Information about the albums.                                      
+artists: Information about the artists.                                              
+genres: Different music genres.                                       
+media_types: Types of media available.                                        
+employees: Details of the store employees.                                                  
